@@ -1,0 +1,17 @@
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CopyComplete
+D:\VisualStudio\ManagementEmployeeBlazorApp\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache

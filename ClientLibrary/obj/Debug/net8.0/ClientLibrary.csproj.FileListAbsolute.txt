@@ -1,0 +1,11 @@
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+D:\VisualStudio\ManagementEmployeeBlazorApp\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
